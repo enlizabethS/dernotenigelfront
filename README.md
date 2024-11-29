@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# DerNotenIgel (At the development stage)
+<sup> This project is my original concept, created to address the needs of musicians everywhere, and I am excited to bring this innovative tool to the market.</sup>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---------------------
+  #### ATTENTION 
 
-## Available Scripts
+<text>This is my intellectual property. Encroachment on the idea and implementation is protected by law.</text>
 
-In the project directory, you can run:
+---------------------
 
-### `npm start`
+DerNotenIgel is a groundbreaking musical application designed to revolutionize the way musicians interact with their compositions. This innovative tool transforms user-generated sounds and melodies into precise musical scores, adhering to authentic musical notation standards.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Concept and Vision
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This application is born from a unique idea with no direct competitors in the current market. The primary goal is to provide musicians, both novices and professionals, with an intuitive platform to capture, edit, and understand their musical ideas seamlessly.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Audio to Sheet Music
+DerNotenIgel converts sounds and melodies played or sung by the user into accurate sheet music. This feature ensures that musicians can easily document their musical ideas without manually transcribing notes.
 
-### `npm run build`
+### Instrument Selection
+Users can choose from a variety of instruments, ensuring that the generated notes and scores correspond to the selected instrument's characteristics.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Real-time Melody Generation
+The application allows users to play their melodies in real-time, with immediate conversion into musical scores. This feature is particularly useful for musicians who want to capture their spontaneous creativity.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Note Editing
+Each note in the generated score is editable. Users can correct any inaccuracies or make changes to better reflect their musical intentions.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Note Explanation
+Clicking on a note provides an explanation, making it easier for users to understand the theoretical aspects of their compositions. This feature is invaluable for those learning music theory.
 
-### `npm run eject`
+### Melody Ending Generation
+DerNotenIgel can suggest possible endings for a melody, helping musicians overcome creative blocks and explore new musical directions.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Advantages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Innovative**: DerNotenIgel offers a unique solution that bridges the gap between musical performance and notation, something not currently available in the market.
+- **Educational**: The note explanation feature aids in music education, providing theoretical insights that enhance learning.
+- **User-Friendly**: With its intuitive interface, the application is accessible to musicians of all skill levels.
+- **Creative**: The melody ending generation feature fosters creativity by suggesting new directions for compositions.
+- **Flexible**: Supports multiple instruments and allows for real-time melody capture and editing.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Market Gap
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Before DerNotenIgel, there was no single application that combined real-time melody generation, instrument-specific note transcription, and educational explanations of musical notes. This application fills that gap, offering a comprehensive tool for musicians to capture, edit, and enhance their musical ideas.
 
-## Learn More
+## Conclusion
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+DerNotenIgel is not just an application but a visionary tool designed to empower musicians. By providing a seamless interface for turning musical ideas into precise scores and offering features that enhance creativity and learning, DerNotenIgel stands out as a unique and invaluable resource in the world of music.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is my original concept, created to address the needs of musicians everywhere, and I am excited to bring this innovative tool to the market.

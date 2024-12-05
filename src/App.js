@@ -7,11 +7,15 @@ import './App.css';
 const App = () => {
     return (
         <div className="App">
-            <NoteForm />
-            <NoteList />
+            <header className="app-header">
+                <h1 className="app-title">Musical Note Application</h1>
+            </header>
+            <main>
+                <NoteForm />
+                <NoteList />
+            </main>
         </div>
     );
 };
 
 export default App;
-

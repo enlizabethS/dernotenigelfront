@@ -27,12 +27,27 @@
 .App-link {
   color: #61dafb;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App {
+  font-family: 'Poppins', sans-serif;
+  background-color: #e6e6e6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
 }
+
+.app-header {
+  width: 100%;
+  background-color: #28a745;
+  padding: 15px;
+  border-radius: 10px 10px 0 0;
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.app-title {
+  font-size: 2.5em;
+}
+
